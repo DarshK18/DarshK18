@@ -31,6 +31,9 @@ I am an AI Engineer based in Pune, Maharashtra, focusing on building reliable, p
   <a href="mailto:darshankedare1815@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
+  <a href="https://github.com/Darshk03" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Old_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="old github" />
+  </a>
 </p>
 
 ---
@@ -84,7 +87,9 @@ I am an AI Engineer based in Pune, Maharashtra, focusing on building reliable, p
 
 <h3 align="left">🏅 Holopin Badges</h3>
 <div align="left">
-  [![An image of @darshk03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshk03)](https://holopin.io/@darshk03)
+
+[![An image of @darshk03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshk03)](https://holopin.io/@darshk03)
+
 </div>
 
 ---
